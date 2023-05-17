@@ -1,0 +1,16 @@
+# Rust/Cargo files
+target/
+Cargo.lock
+**/*.rs.bk
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# System files
+*.DS_Store
+Thumbs.db
